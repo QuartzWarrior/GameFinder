@@ -41,7 +41,6 @@
 // @icon         http://www.jt-autospa.com/wp-content/uploads/images/jt_stock_280x230.jpg
 
 // @run-at       document-start
-// @antifeature  tracking
 // ==/UserScript==
 
 /*
